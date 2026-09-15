@@ -1,0 +1,5 @@
+user.txt
+tasks.txt
+__pycache__/
+*.pyc
+*.db
